@@ -4,9 +4,14 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/POO/ClasesYObjetos/ClasesYObjetos.iml" filepath="$PROJECT_DIR$/POO/ClasesYObjetos/ClasesYObjetos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Cursojava.iml" filepath="$PROJECT_DIR$/Cursojava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/ClasesYObjetos/Ejercicio1/Ejercicio1.iml" filepath="$PROJECT_DIR$/POO/ClasesYObjetos/Ejercicio1/Ejercicio1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/ClasesYObjetos/Ejercicio2/Ejercicio2.iml" filepath="$PROJECT_DIR$/POO/ClasesYObjetos/Ejercicio2/Ejercicio2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/ClasesYObjetos/Ejercicio3/Ejercicio3.iml" filepath="$PROJECT_DIR$/POO/ClasesYObjetos/Ejercicio3/Ejercicio3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/ClasesYObjetos/Ejercicio4/Ejercicio4.iml" filepath="$PROJECT_DIR$/POO/ClasesYObjetos/Ejercicio4/Ejercicio4.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/POO.iml" filepath="$PROJECT_DIR$/POO/POO.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/ClasesYObjetos/paquete1/paquete1.iml" filepath="$PROJECT_DIR$/POO/ClasesYObjetos/paquete1/paquete1.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/ClasesYObjetos/paquete2/paquete2.iml" filepath="$PROJECT_DIR$/POO/ClasesYObjetos/paquete2/paquete2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/ClasesYObjetos/reto2/reto2.iml" filepath="$PROJECT_DIR$/POO/ClasesYObjetos/reto2/reto2.iml" />
     </modules>
   </component>
 </project>
