@@ -4,13 +4,16 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/POO/ClasesYObjetos/ClasesYObjetos.iml" filepath="$PROJECT_DIR$/POO/ClasesYObjetos/ClasesYObjetos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Cursojava.iml" filepath="$PROJECT_DIR$/Cursojava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/ClasesYObjetos/Ejercicio-ClasesYMetodosAbstractos/Ejercicio-ClasesYMetodosAbstractos.iml" filepath="$PROJECT_DIR$/POO/ClasesYObjetos/Ejercicio-ClasesYMetodosAbstractos/Ejercicio-ClasesYMetodosAbstractos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/ClasesYObjetos/Ejercicio-Herencia/Ejercicio-Herencia.iml" filepath="$PROJECT_DIR$/POO/ClasesYObjetos/Ejercicio-Herencia/Ejercicio-Herencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/ClasesYObjetos/Ejercicio-Polimorfismo/Ejercicio-Polimorfismo.iml" filepath="$PROJECT_DIR$/POO/ClasesYObjetos/Ejercicio-Polimorfismo/Ejercicio-Polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/ClasesYObjetos/Ejercicio-SobreEscrituraDeMiembros/Ejercicio-SobreEscrituraDeMiembros.iml" filepath="$PROJECT_DIR$/POO/ClasesYObjetos/Ejercicio-SobreEscrituraDeMiembros/Ejercicio-SobreEscrituraDeMiembros.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/ClasesYObjetos/Ejercicio1/Ejercicio1.iml" filepath="$PROJECT_DIR$/POO/ClasesYObjetos/Ejercicio1/Ejercicio1.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/ClasesYObjetos/Ejercicio2/Ejercicio2.iml" filepath="$PROJECT_DIR$/POO/ClasesYObjetos/Ejercicio2/Ejercicio2.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/ClasesYObjetos/Ejercicio3/Ejercicio3.iml" filepath="$PROJECT_DIR$/POO/ClasesYObjetos/Ejercicio3/Ejercicio3.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/ClasesYObjetos/Ejercicio4/Ejercicio4.iml" filepath="$PROJECT_DIR$/POO/ClasesYObjetos/Ejercicio4/Ejercicio4.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/ClasesYObjetos/Ejercicio5/Ejercicio5.iml" filepath="$PROJECT_DIR$/POO/ClasesYObjetos/Ejercicio5/Ejercicio5.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/ClasesYObjetos/Ejercicio6/Ejercicio6.iml" filepath="$PROJECT_DIR$/POO/ClasesYObjetos/Ejercicio6/Ejercicio6.iml" />
-      <module fileurl="file://$PROJECT_DIR$/POO/ClasesYObjetos/Ejercicio7/Ejercicio7.iml" filepath="$PROJECT_DIR$/POO/ClasesYObjetos/Ejercicio7/Ejercicio7.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/POO.iml" filepath="$PROJECT_DIR$/POO/POO.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/ClasesYObjetos/paquete1/paquete1.iml" filepath="$PROJECT_DIR$/POO/ClasesYObjetos/paquete1/paquete1.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/ClasesYObjetos/paquete2/paquete2.iml" filepath="$PROJECT_DIR$/POO/ClasesYObjetos/paquete2/paquete2.iml" />
